@@ -2,6 +2,8 @@
 
 Hi! I'm Troy Israel
 
+This is a work in progress
+
 <!--
 **troykerim/troykerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
