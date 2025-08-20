@@ -5,7 +5,9 @@ Hi! I'm Troy Israel.  I have a M.Sc. in Computer Engineering.  My background is 
 This is a work in progress
 
 ## FPGA Projects: 
-* [Dice Roller Game](https://github.com/troykerim/zybo_dice_roller) - Dice Rolling game implemented on the Zybo Z7-10 
+* [Dice Rolling Game](https://github.com/troykerim/zybo_dice_roller) - Dice Rolling game implemented on the Zybo Z7-10 
+* [UART Module](https://github.com/troykerim/Uart_module) - Verilog Implementation of a UART module for both RX and TX
+* [Pong Game](https://github.com/troykerim/pong_vga/tree/main) - Pong Game on VGA implemented on the Zybo Z7-10
 
 ## Machine Learning Projects:
 * [3D CNN Hyperspectral Image Classifier](https://github.com/troykerim/Image_Classification_with_spectral_data) - 3D CNN Model that classifies Hyperspectral Data into 6 distinct health metrics.
