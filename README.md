@@ -8,6 +8,7 @@ This is a work in progress
 * [Dice Rolling Game](https://github.com/troykerim/zybo_dice_roller) - Dice Rolling game implemented on the Zybo Z7-10 
 * [UART Module](https://github.com/troykerim/Uart_module) - Verilog Implementation of a UART module for both RX and TX
 * [Pong Game](https://github.com/troykerim/pong_vga/tree/main) - Pong Game on VGA implemented on the Zybo Z7-10
+* [Bouncing Ball](https://github.com/troykerim/bouncing_ball) - Bouncing Ball on VGA implemented on the Zybo Z7-10
 
 ## Machine Learning Projects:
 * [3D CNN Hyperspectral Image Classifier](https://github.com/troykerim/Image_Classification_with_spectral_data) - 3D CNN Model that classifies Hyperspectral Data into 6 distinct health metrics.
@@ -23,6 +24,15 @@ This is a work in progress
 
 <!--
 **troykerim/troykerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[](https://github.com/troykerim/bouncing_ball)
+[](https://github.com/troykerim/sobel_edge_detector)
+[](https://github.com/troykerim/video_interface_with_zynq)
+[](https://github.com/troykerim/Hygro-CLS-project)
+[](https://github.com/troykerim/keypad_seven_segment)
+[](https://github.com/troykerim/number_guessing_game)
+[](https://github.com/troykerim/booth_multiplier)
+[](https://github.com/troykerim/up_down_counter)
+
 
 Here are some ideas to get you started:
 
